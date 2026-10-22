@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mobashir Ahmad 👋
 
-<!--
-**NextGenDataTech/NextGenDataTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to NextGenDataTech
 
-Here are some ideas to get you started:
+I'm a Data Architect sharing practical knowledge about modern data engineering and cloud data platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies
+- Microsoft Fabric
+- Azure Data Engineering
+- Databricks and PySpark
+- Delta Lake and Lakehouse Architecture
+- Snowflake and Data Warehousing
+
+### 🎯 My Mission
+To help data engineers and aspiring architects learn through practical tutorials, real-world scenarios, and hands-on projects.
+
+### 📺 YouTube
+NextGenDataTech — Learn. Build. Architect.
+
+More tutorials and project repositories coming soon!
